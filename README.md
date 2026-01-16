@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faith Beall @fbeall a physics graduate student studying at the University of Texas at Arlington. 
 - 👀 My research interests are in high energy physics and detector technology.
-- 🌱 I’m currently adjusting to graduate school and am beginning to kickstart my research.
+- 🌱 When not working, I enjoy vacationing, reading, yoga, and hanging out with my cat.
 - 📫 How to reach me: feb9528@mavs.uta.edu
 
 <!---
